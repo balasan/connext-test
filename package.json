@@ -1,0 +1,9 @@
+{
+  "name": "connext-test",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "@connext/client": "6.2.0"
+  }
+}
